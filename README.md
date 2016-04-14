@@ -1,2 +1,2 @@
 # BluefruitSPI
-Bluefruit LE SPI friend driver for Energia
+Bluefruit LE SPI friend driver for MSP43x with Energia
